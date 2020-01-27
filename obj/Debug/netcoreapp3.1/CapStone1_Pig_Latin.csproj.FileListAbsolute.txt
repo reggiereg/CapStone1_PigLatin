@@ -1,0 +1,11 @@
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\bin\Debug\netcoreapp3.1\CapStone1_Pig_Latin.exe
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\bin\Debug\netcoreapp3.1\CapStone1_Pig_Latin.deps.json
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\bin\Debug\netcoreapp3.1\CapStone1_Pig_Latin.runtimeconfig.json
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\bin\Debug\netcoreapp3.1\CapStone1_Pig_Latin.runtimeconfig.dev.json
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\bin\Debug\netcoreapp3.1\CapStone1_Pig_Latin.dll
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\bin\Debug\netcoreapp3.1\CapStone1_Pig_Latin.pdb
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\obj\Debug\netcoreapp3.1\CapStone1_Pig_Latin.csprojAssemblyReference.cache
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\obj\Debug\netcoreapp3.1\CapStone1_Pig_Latin.AssemblyInfoInputs.cache
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\obj\Debug\netcoreapp3.1\CapStone1_Pig_Latin.AssemblyInfo.cs
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\obj\Debug\netcoreapp3.1\CapStone1_Pig_Latin.dll
+C:\Users\young\Desktop\bootcampAssigns\CapStones\CapStone1_Pig_Latin\obj\Debug\netcoreapp3.1\CapStone1_Pig_Latin.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapStone1_Pig_Latin", "CapStone1_Pig_Latin.csproj", "{65B406D3-6304-46CB-8E32-CB6D40031237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B406D3-6304-46CB-8E32-CB6D40031237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B406D3-6304-46CB-8E32-CB6D40031237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B406D3-6304-46CB-8E32-CB6D40031237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B406D3-6304-46CB-8E32-CB6D40031237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0DB57F-D5B6-49A8-8DE3-08A42D86C298}
+	EndGlobalSection
+EndGlobal
